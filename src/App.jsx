@@ -1,5 +1,5 @@
 import { Billing, Business, CardDeal, Clients, CTA, Footer, Navbar, Stats, Testimonials, Hero } from "./components";
-import styles from './style'
+import styles from './styles'
 
 const App = () => 
    (
